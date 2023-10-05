@@ -1,0 +1,13 @@
+.container {
+    width: 1170px;
+}
+
+.formsec {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnzayavka {
+    margin-top: 50px;
+}
